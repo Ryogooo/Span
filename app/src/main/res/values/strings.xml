@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Span</string>
+    <string name="button">文字を入力したらクリック</string>
+    <string name="moji">文字を入力して下さい</string>
+</resources>
